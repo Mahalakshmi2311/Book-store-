@@ -1,0 +1,6 @@
+{
+  "name": "BookNest - Online Bookstore",
+  "description": "A modern, full-featured online bookstore for browsing, searching, and purchasing books across fiction, tech, academic, children's, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
